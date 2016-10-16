@@ -17,18 +17,6 @@ from    getter_setter_global            import *
 
 class GetterSetterModel:
 
-    ## Class Variables: ##
-
-    # self.src_code
-    # self.input_name
-    # self.input_contents
-    # self.output_name
-    # self.output_contents
-    # self.variable_list
-    # self.sel_language
-    # self.app_window
-
-
     ## Class Functions: ##
 
     def __init__( self, _app_window ):

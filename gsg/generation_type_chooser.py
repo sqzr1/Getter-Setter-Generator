@@ -13,14 +13,6 @@ import wx
 
 class GenerationTypeChooser( wx.ComboBox ):
 
-
-    ## Class Variables:
-
-    # self.parent
-    # self.choices
-    # self.variable_index
-
-
     ## Class Functions:
 
     def __init__( self, _parent, _ulc, _id, _title, _variable_index ):

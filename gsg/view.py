@@ -33,26 +33,7 @@ except ImportError: # if it's not there locally, try the wxPython lib.
 
 
 
-
 class GetterSetterView( wx.Frame ):
-
-    ## Class Variables: ##
-
-    # self.controller
-    # self.parent
-    # self.pos
-    # self.dim
-
-    # self.main_panel
-    # self.main_sizer
-    # self.generate_bt
-    # self.input_eb
-    # self.output_eb
-    # self.language_cb
-    # self.input_tf
-    # self.output_tf
-    # self.variable_lc
-
 
     ## Class Functions: ##
 

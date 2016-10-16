@@ -14,15 +14,6 @@ from getter_setter_global import BOTH, GETTER, SETTER, CPLUSPLUS, JAVA, PYTHON
 
 class Variable:
 
-    ## Class Variables: ##
-
-    # self.var_name
-    # self.data_type
-    # self.var_value
-    # self.wrapper_name
-    # self.function_type
-
-
     ## Static Class Variables: ##
 
     getter_template = """

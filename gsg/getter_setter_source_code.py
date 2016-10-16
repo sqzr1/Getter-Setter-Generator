@@ -16,22 +16,6 @@ import  getter_setter_variable  as      Variable
 
 class SourceCode:
 
-    ## Class Variables:
-
-    # self.code
-    # self.wrapper_list
-    # self.variable_list
-    # self.end_dec
-    # self.end_chars
-    # self.wrapper_tags
-    # self.format_chars
-    # self.data_type_tags
-    # self.comment_tag
-    # self.comment_blk_strt_tag
-    # self.comment_blk_end_tag
-    # self.quotation_type_tags
-
-
     ## Class Functions: ##
 
     def __init__( self, _source_code ):

@@ -23,12 +23,6 @@ from getter_setter_global   import *
 
 class Controller:
 
-    ## Class Variables: ##
-
-    # self.app_window
-    # self.app_model
-
-
     ## Class Functions: ##
 
     def __init__( self ):

@@ -13,12 +13,6 @@ import wx
 
 class FileDrop( wx.FileDropTarget ):
 
-    ## Class Variables: ##
-
-    # self.window
-    # self.parent_frame
-
-
     ## Class Functions: ##
 
     def __init__( self, _window, _parent_frame ):
